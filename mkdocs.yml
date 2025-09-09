@@ -69,7 +69,6 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
-  # logo: assets/images/ann-dl.png # Uncomment when you add the logo
 
 markdown_extensions:
   - admonition
@@ -124,41 +123,14 @@ extra_css:
 nav:
   - Course Overview: index.md
   
-  # - Classes:
-  #   - 1. Introduction: classes/introduction/main.md
-  #   - 2. Mathematical Foundations: classes/foundations/main.md
-  #   - 3. Data & Preprocessing: classes/data/main.md
-  #   - 4. Neural Networks Basics: classes/neural-networks/main.md
-  #   - 5. Perceptron: classes/perceptron/main.md
-  #   - 6. Multi-Layer Perceptron: classes/mlp/main.md
-  #   - 7. Backpropagation: classes/backpropagation/main.md
-  #   - 8. Optimization: classes/optimization/main.md
-  #   - 9. Regularization: classes/regularization/main.md
-  #   - 10. Evaluation Metrics: classes/metrics/main.md
-  #   - 11. Deep Learning: classes/deep-learning/main.md
-  #   - 12. Convolutional Networks: classes/cnn/main.md
-
   - Laboratory Exercises:
     - Overview: exercises/index.md
     - Exercise 1 - Data Generation and Visualization:
       - Part A: exercises/exercise1/part-a.md
       - Part B: exercises/exercise1/part-b.md
       - Part C: exercises/exercise1/part-c.md
-    - Exercise 2 - Perceptron (Coming Soon):
-      - Overview: exercises/exercise2/main.md
-      - Implementation Guide: exercises/exercise2/implementation.md
-    - Exercise 3 - (Coming Soon):
-      - Overview: exercises/exercise3/main.md
-      - Advanced Techniques: exercises/exercise3/advanced.md
-
-  - Projects:
-    - Project Guidelines: projects/index.md
-    - Project 1 - Classification: projects/classification/main.md
-    - Project 2 - Regression: projects/regression/main.md
-    - Final Project: projects/final/main.md
 
   - Resources:
-    - References: resources/references.md
     - Tools & Setup: resources/setup.md
     - FAQ: resources/faq.md
 

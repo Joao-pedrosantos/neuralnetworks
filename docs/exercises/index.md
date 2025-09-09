@@ -108,11 +108,6 @@ Explore advanced architectures and modern techniques used in deep learning.
 
 ## Support and Resources
 
-- 📖 **Course Materials**: Refer to the [Classes](../classes/introduction/main.md) section for theoretical background
 - 🔧 **Setup Issues**: Check [Tools & Setup](../resources/setup.md) for troubleshooting
 - ❓ **Questions**: See [FAQ](../resources/faq.md) for common questions
 - 💬 **Discussion**: Use GitHub Issues for questions and discussion
-
----
-
-Happy learning! 🚀

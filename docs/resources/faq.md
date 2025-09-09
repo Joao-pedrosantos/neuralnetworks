@@ -76,7 +76,7 @@
 **A:** Several options:
 1. **GitHub Issues**: Create an issue in the repository
 2. **GitHub Discussions**: Ask questions and discuss with peers
-3. **Course Materials**: Review the [Classes](../classes/introduction/main.md) section
+3. **Setup Guide**: Review the [Tools & Setup](setup.md) section
 4. **Documentation**: Check package documentation (NumPy, Matplotlib, etc.)
 
 ### Q: How do I report a bug or error in the materials?
