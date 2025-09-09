@@ -5,6 +5,6 @@
 !!! jupyter "Interactive Exercise"
     Continue your exploration with the second notebook in the series:
 
-    [:material-notebook: Open Exercise 1B Notebook](https://nbviewer.org/github/joao-pedrosantos/neuralnetworks/blob/main/exercises/exercise2.ipynb){ .md-button .md-button--primary }
-    
-    [:material-github: View Source on GitHub](https://github.com/joao-pedrosantos/neuralnetworks/blob/main/exercises/exercise2.ipynb){ .md-button }
+    [:material-notebook: Open Exercise 1B Notebook](https://nbviewer.org/github/joao-pedrosantos/neuralnetworks/blob/main/docs/exercises/exercise1/exercise2.ipynb){ .md-button .md-button--primary }
+
+    [:material-github: View Source on GitHub](https://github.com/joao-pedrosantos/neuralnetworks/blob/main/docs/exercises/exercise1/exercise2.ipynb){ .md-button }
