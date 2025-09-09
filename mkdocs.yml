@@ -129,6 +129,8 @@ nav:
       - Part A: exercises/exercise1/part-a.md
       - Part B: exercises/exercise1/part-b.md
       - Part C: exercises/exercise1/part-c.md
+    - Exercise 2 - Perceptron Implementation:
+      - Part A: exercises/exercise2/part-a.md
 
   - Resources:
     - Tools & Setup: resources/setup.md

@@ -38,7 +38,7 @@ This foundational exercise explores data generation, visualization, and the fund
 
 ---
 
-### Exercise 2: Perceptron (Coming Soon)
+### Exercise 2: Perceptron
 
 Build neural networks from scratch, understanding every component from forward propagation to backpropagation.
 
@@ -48,7 +48,6 @@ Build neural networks from scratch, understanding every component from forward p
 - Loss functions and performance metrics
 - Network architecture design
 
-*This exercise will be available soon.*
 
 ---
 
