@@ -131,7 +131,8 @@ nav:
       - Part C: exercises/exercise1/part-c.md
     - Exercise 2 - Perceptron Implementation:
       - Part A: exercises/exercise2/part-a.md
-
+    - Exercise 3 - Multi Layer Perceptron:
+      - Part A: exercises/exercise3/part-a.md
   - Resources:
     - Tools & Setup: resources/setup.md
     - FAQ: resources/faq.md

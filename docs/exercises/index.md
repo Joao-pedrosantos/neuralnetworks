@@ -51,9 +51,9 @@ Build neural networks from scratch, understanding every component from forward p
 
 ---
 
-### Exercise 3: Advanced Neural Networks (Coming Soon)
+### Exercise 3: Multi Layer Perceptron
 
-Explore advanced architectures and modern techniques used in deep learning.
+Implementation of multi-layer networks, exploring activation functions, and training techniques.
 
 **Topics covered:**
 - Deep neural networks
@@ -61,7 +61,7 @@ Explore advanced architectures and modern techniques used in deep learning.
 - Advanced optimization algorithms
 - Model evaluation and selection
 
-*This exercise will be available soon.*
+---
 
 ## Getting Started
 
