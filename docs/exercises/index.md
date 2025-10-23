@@ -63,6 +63,19 @@ Implementation of multi-layer networks, exploring activation functions, and trai
 
 ---
 
+### Exercise 4: Variational Autoencoder (VAE) on MNIST
+
+Implement a Variational Autoencoder to learn latent representations of the MNIST dataset.
+
+**Topics covered:**
+- Autoencoder architecture
+- Variational inference
+- Latent space exploration
+- Image generation
+
+
+---
+
 ## Getting Started
 
 ### Prerequisites
