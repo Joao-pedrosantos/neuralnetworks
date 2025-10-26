@@ -135,9 +135,17 @@ nav:
       - Part A: exercises/exercise3/part-a.md
     - Exercise 4 - Variational Autoencoder:
       - Part A: exercises/exercise4/index.md
+  - Projects:
+    - Overview: projects/index.md
+    # - Project 1 - Perceptron Application:
+      # - Part A: projects/project1/part-a.md
+    - Project 2 - MLP Implementation:
+      - Notebook: projects/project2/index.md  
   - Resources:
     - Tools & Setup: resources/setup.md
     - FAQ: resources/faq.md
+
+  
 
   - About: about.md
 
