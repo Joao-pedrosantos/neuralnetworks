@@ -1,4 +1,4 @@
-# Exercise #: Multi Layer Perceptron Implementation
+# Exercise 3: Multi Layer Perceptron Implementation
 
 ## Notebook
 
